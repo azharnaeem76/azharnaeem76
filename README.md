@@ -133,6 +133,7 @@ An AI-based tool that generates blog posts based on user inputs using OpenAI's G
 - **Portfolio:** [www.zinetics.com]
 - **LinkedIn:** [www.linkedin.com/in/azhar-naeem-965254196/]
 - **Upwork:** [www.upwork.com/freelancers/senioraiengineer]
+- **Freelancer:** [www.freelancer.com/u/aazharnaeem?frm=aazharnaeem&sb=t]
 - **Email:** [azharnaeem76@gmail.com]
 - **Newsletter:** [www.linkedin.com/build-relation/newsletter-follow?entityUrn=7473148036177780736]
 
