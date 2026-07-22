@@ -8,7 +8,7 @@
 
 I am a Full Stack Developer with 7+ years of experience building software across the entire stack frontend, cross platform development, backend, iOS, Android, AWS cloud infrastructure, API and LLM engineering. I have delivered 200+ complex projects for large enterprises, startups, firms and everything in between, spanning SaaS platforms, marketplace development, and AI applications.
 
-I am also the CEO of Zinetics LLC, where I lead technical strategy and product development.
+I am also the Founder of Zinetics LLC [www.zinetics.com], where I lead technical strategy and product development.
 
 - 🔭 **What I’m Currently Working On:** Developing an open-source SaaS platform for project tracking.
 - 🌱 **What I’m Learning Next:** Kubernetes orchestration and advanced TypeScript patterns.
@@ -19,12 +19,16 @@ I am also the CEO of Zinetics LLC, where I lead technical strategy and product d
 ## 🛠️ My Tech Stack
 
 ### **Languages:**
-- JavaScript (ES6+), TypeScript, Python, PHP, Java, C++
+- LLM Engineering: Python, TypeScript, JavaScript, OpenAI API, Claude API, LangChain, LlamaIndex, Hugging Face Transformers, PyTorch, TensorFlow, Pydantic, FastAPI
+- iOS: Swift, Objective-C, SwiftUI, UIKit, Combine, CoreData, Alamofire
+- Android: Kotlin, Java, Jetpack Compose, XML, Room, Retrofit, Coroutines 
+- SaaS Development: JavaScript, TypeScript, Python, PHP, Ruby, Go, Rust, Node.js, React, Next.js, Vue.js, Laravel, Django, Ruby on Rails, PostgreSQL, MongoDB, Redis, Docker, Kubernetes, AWS, GCP, Azure
 
 ### **Frontend Development:**
-- Frameworks: React, Next.js, Angular, Vue.js
-- Styling: CSS3, SASS, TailwindCSS, Material-UI
-- Tools: Webpack, Vite, Babel
+- JavaScript, TypeScript, HTML5, CSS3, React, Next.js, Angular, Vue.js
+- SASS, TailwindCSS, Material-UI, Webpack, Vite, Babel, Redux, Zustand
+- React Query, GraphQL, REST APIs, Jest, Cypress, Playwright, Storybook
+- Figma, npm, Yarn, pnpm, ESLint, Prettier
 
 ### **Backend Development:**
 - Frameworks: Node.js (Express, NestJS), Django, Flask, Laravel
