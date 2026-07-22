@@ -6,7 +6,7 @@ Founder of Zinetics LLC
 
 I am a Full Stack Developer with 7+ years of experience building software across the entire stack frontend, cross platform development, backend, iOS, Android, AWS cloud infrastructure, API and LLM engineering. I have delivered 200+ complex projects for large enterprises, startups, firms and everything in between, spanning SaaS platforms, marketplace development, and AI applications.
 
-I am also the Founder of Zinetics LLC [www.zinetics.com], where I lead technical strategy and product development.
+I am also the Founder of Zinetics LLC Team [www.zinetics.com], where I lead technical strategy and product development.
 
 - 🔭 **What I’m Currently Working On:** Developing an open-source SaaS platform for project tracking.
 - 🌱 **What I’m Learning Next:** Kubernetes orchestration and advanced TypeScript patterns.
@@ -130,11 +130,10 @@ An AI-based tool that generates blog posts based on user inputs using OpenAI's G
 
 ## 🌐 Connect with Me
 
-- **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
-- **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-- **Twitter:** [@yourusername](https://twitter.com/yourusername)
-- **Email:** [youremail@example.com](mailto:youremail@example.com)
-- **Blog:** [Medium/Dev.to](https://medium.com/@yourusername)
+- **Portfolio:** [www.zinetics.com]
+- **LinkedIn:** [www.linkedin.com/in/azhar-naeem-965254196/]
+- **Upwork** [www.upwork.com/freelancers/senioraiengineer]
+- **Email:** [azharnaeem76@gmail.com]
 
 ---
 
