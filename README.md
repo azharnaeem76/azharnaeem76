@@ -6,11 +6,13 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm a **Full-Stack Developer** with [X years] of experience in designing, developing, and deploying scalable web applications. My passion lies in solving complex problems, building intuitive user interfaces, and optimizing backend systems for performance.
+I am a Full Stack Developer with 7+ years of experience building software across the entire stack frontend, cross platform development, backend, iOS, Android, AWS cloud infrastructure, API and LLM engineering. I have delivered 200+ complex projects for large enterprises, startups, firms and everything in between, spanning SaaS platforms, marketplace development, and AI applications.
+
+I am also the CEO of Zinetics LLC, where I lead technical strategy and product development.
 
 - 🔭 **What I’m Currently Working On:** Developing an open-source SaaS platform for project tracking.
 - 🌱 **What I’m Learning Next:** Kubernetes orchestration and advanced TypeScript patterns.
-- ⚡ **Fun Fact:** I love solving coding challenges and have [X solutions] on platforms like [HackerRank/LeetCode/Codewars](https://www.hackerrank.com/yourusername).
+- ⚡ **Fun Fact:** I love solving coding challenges and have 150+ solutions one [HackerRank/LeetCode/Codewars](https://www.hackerrank.com/yourusername).
 
 ---
 
