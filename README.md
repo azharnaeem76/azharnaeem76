@@ -1,5 +1,5 @@
 **Hi 👋  CEOs, Enterprise Businesses and Recruiting Teams**.
-**I am Azhar Naeem. 200+ projects shipped. Zero excuses. Let's talk.**
+I am **Azhar Naeem. Let's talk share your project details with me**
 
 Founder of Zinetics LLC
 ---
